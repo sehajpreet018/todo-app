@@ -15,7 +15,7 @@ while True:
 
         todos = functions.get_todos()
 
-        todos.append(todo)
+        todos.append(todo + '\n')
 
         functions.write_todos(todos)
 

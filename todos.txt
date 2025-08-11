@@ -2,4 +2,5 @@ clean
 throw
 play
 study
-sing
+dance
+gym
