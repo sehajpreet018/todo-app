@@ -1,6 +1,5 @@
-clean
-throw
 play
 study
 dance
 gym
+sleep
